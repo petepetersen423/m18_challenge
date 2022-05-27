@@ -10,11 +10,11 @@
 
 This project is a python is a sample blockchaion programming sample with a Streamlit user interface.  THe features include the ability to add a block to the chain after showing proof of work.  The proof of work nonce is derived by incrementing through integer space and hashing the integet using sha 256 until the number preceeding zeros matches the number od zeros specified in the proof of work difficulty slider.
 
-## Screenshoot of Several Block being added to the chain
+## Screenshoot of Several Blocks being added to the chain
 
 ![Add a Block](AddBlock.jpg)
 
-## Screenshoot of Several Blocks beiong added to the chain  
+## Screenshoot of full Blockchain Validation success
 
 ![Add a Block](ValidateChain.jpg)  
 
